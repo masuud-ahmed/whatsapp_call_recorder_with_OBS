@@ -55,7 +55,7 @@ The following Python packages are required. You can install them via `pip` using
 1. **Clone the repository**:
    Clone the project repository from GitHub to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/masuud-ahmed/whatsapp_call_recorder_with_OBS.git
    ```
 
 2. **Install dependencies**:
@@ -139,8 +139,7 @@ If you'd like to contribute to the project, feel free to fork the repository and
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Example requirements.txt
-```txt
+
 websocket-client
 pygetwindow
 pyautogui
